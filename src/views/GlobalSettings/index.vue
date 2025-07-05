@@ -117,6 +117,28 @@ const fields = [
     {
         type: 'switch',
         name: 'enableFallingBlockProtection',
-    }
+    },
+    {
+        type: 'switch',
+        name: 'enableLandClaimProtection',
+    },
+    {
+        type: 'input',
+        name: 'landClaimProtectionTip',
+        props: {
+            type: 'textarea',
+        },
+    },
+    {
+        type: 'switch',
+        name: 'enableTraderAreaProtection',
+    },
+    {
+        type: 'input',
+        name: 'traderAreaProtectionTip',
+        props: {
+            type: 'textarea',
+        },
+    },
 ];
 </script>

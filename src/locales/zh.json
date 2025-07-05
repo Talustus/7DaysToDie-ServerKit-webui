@@ -701,7 +701,11 @@
             "autoZombieCleanupThreshold": "自动僵尸清理阈值",
             "enableXmlsSecondaryOverwrite": "启用Xmls防偷",
             "hideCommandInChat": "在聊天中隐藏命令",
-            "enableFallingBlockProtection": "启用塌方保护"
+            "enableFallingBlockProtection": "启用塌方保护",
+            "enableLandClaimProtection": "启用领地石保护",
+            "landClaimProtectionTip": "领地石保护提示",
+            "enableTraderAreaProtection": "启用交易区保护",
+            "traderAreaProtectionTip": "交易区保护提示"
         },
         "autoBackup": {
             "isEnabled": "是否启用",
